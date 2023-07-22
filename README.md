@@ -7,19 +7,10 @@
 
 ### Programming languages
 
-I use various programming languages, including: 
-- Emacs Lisp
-- JavaScript
-- Nim
-- PHP
-- Python
-- Rust
+I use various programming languages, including (in alphabetical order): 
+Emacs Lisp, JavaScript, Nim, PHP, Python, Rust
 
 ### Interests
 
-- GUI frameworks and applications
-- Audio DSP
-- Algorithms
-- AI
-- Cryptography
-- Open-source software
+In the context of Github, I'm interested in: 
+GUI frameworks and applications, Audio DSP, Algorithms, AI, Cryptography, Open-source software.
