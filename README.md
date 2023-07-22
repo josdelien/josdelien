@@ -18,6 +18,7 @@ I use various programming languages, including:
 ### Interests
 
 - GUI frameworks and applications
+- Audio DSP
 - Algorithms
 - AI
 - Cryptography
