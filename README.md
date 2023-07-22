@@ -1,11 +1,11 @@
-### ir. Jos Deliën M.Sc.
+# ir. Jos Deliën M.Sc.
 
-## Background
+### Background
 
 - Graduated from [TU/e Industrial Management](https://www.tue.nl/) (2003)
 - Strategist, Dealmaker, Software Engineer
 
-## Programming languages
+### Programming languages
 
 I use various programming languages, including: 
 - Emacs Lisp
