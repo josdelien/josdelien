@@ -1,16 +1,24 @@
-### Hi there 👋
+### ir. Jos Deliën M.Sc.
 
-<!--
-**josdelien/josdelien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Background
 
-Here are some ideas to get you started:
+- Graduated from [TU/e Industrial Management](https://www.tue.nl/) (2003)
+- Strategist, Dealmaker, Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming languages
+
+I use various programming languages, including: 
+- Emacs Lisp
+- JavaScript
+- Nim
+- PHP
+- Python
+- Rust
+
+### Interests
+
+- GUI frameworks and applications
+- Algorithms
+- AI
+- Cryptography
+- Open-source software
