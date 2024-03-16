@@ -8,7 +8,7 @@
 ### Programming languages
 
 I use various programming languages, including (in alphabetical order):
-JavaScript, Nim, Onyx, PHP, Python, Rust, Zig 
+C, JavaScript, Nim, Odin, Onyx, PHP, Python, Rust, Zig 
 
 ### Interests
 
