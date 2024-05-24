@@ -13,4 +13,4 @@ C, Go, JavaScript, Nim, Odin, PHP, Python, Rust, Zig
 ### Interests
 
 In the context of Github, I'm interested in: 
-GUI frameworks and applications, Creative Generative Algorithmic Coding, Audio DSP, Algorithms, AI, Cryptography, Game Development, Networking, Systems Programming, Open-source software.
+GUI frameworks and applications, Creative Generative Algorithmic Coding, Audio DSP, Algorithms, AI, Cryptography & Blockchain, Concurrency, Game Development, Networking, Systems Programming, Open-source software.
