@@ -7,7 +7,7 @@
 
 ### Programming languages
 
-I use various programming languages, including (in alphabetical order):
+I use various programming languages, including (in alphabetical order):\n
 C, C++, GDscript, GLSL, Go, JavaScript, Lua, Odin, PHP, Python, Rust, Zig 
 
 ### Interests
